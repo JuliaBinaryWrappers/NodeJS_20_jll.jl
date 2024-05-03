@@ -1,6 +1,6 @@
 name = "NodeJS_20_jll"
 uuid = "c7aee132-11e1-519c-8219-0a43005e73c2"
-version = "20.11.1+0"
+version = "20.12.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

@@ -1,104 +1,104 @@
 [[NodeJS_20]]
 arch = "aarch64"
-git-tree-sha1 = "e972793fde0fa31a7fc77a58fa34e5ebd54e6658"
+git-tree-sha1 = "34a516c9d97d925f9ae668de15ecaa6eeeb8df32"
 os = "macos"
 
     [[NodeJS_20.download]]
-    sha256 = "8bad3951f610de698d66da106b0319679c438975cee5fa1d68bc0e8c360f0461"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "0359a20502e72a279737b5f0b3e3fe8a4506758b933376064dd076da50cbd3d7"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.aarch64-apple-darwin.tar.gz"
 [[NodeJS_20]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf6b9c0bcb2633b51af7dcc010a9d04c6f5a58d3"
+git-tree-sha1 = "42157714758fdcbc72842f6c3c82f67729e4c734"
 libc = "glibc"
 os = "linux"
 
     [[NodeJS_20.download]]
-    sha256 = "1f03ae4725350255cbae8ba8abadd942967a05e860c780934b670c08664109f1"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "1717209aaf21b055070d3312271480765517d07f84e63dd3560336b09f357d48"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[NodeJS_20]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf6b9c0bcb2633b51af7dcc010a9d04c6f5a58d3"
+git-tree-sha1 = "42157714758fdcbc72842f6c3c82f67729e4c734"
 libc = "musl"
 os = "linux"
 
     [[NodeJS_20.download]]
-    sha256 = "1f03ae4725350255cbae8ba8abadd942967a05e860c780934b670c08664109f1"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "1717209aaf21b055070d3312271480765517d07f84e63dd3560336b09f357d48"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.aarch64-linux-musl-cxx11.tar.gz"
 [[NodeJS_20]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf10dff1bab313edd865d067b8ffffab5e472529"
+git-tree-sha1 = "74c8b0f182fc7d6812d16bdd1e2bfbbf3bad376d"
 libc = "glibc"
 os = "linux"
 
     [[NodeJS_20.download]]
-    sha256 = "339d623e2524055db069e5c7785b262b0b723436980c1cd4fc1153b1c764a5c9"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "ec4d5e9295103616aa686e995f320bafb60b9ae545ed6f0a50d293c2ba57677f"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[NodeJS_20]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf10dff1bab313edd865d067b8ffffab5e472529"
+git-tree-sha1 = "74c8b0f182fc7d6812d16bdd1e2bfbbf3bad376d"
 libc = "musl"
 os = "linux"
 
     [[NodeJS_20.download]]
-    sha256 = "339d623e2524055db069e5c7785b262b0b723436980c1cd4fc1153b1c764a5c9"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "ec4d5e9295103616aa686e995f320bafb60b9ae545ed6f0a50d293c2ba57677f"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[NodeJS_20]]
 arch = "i686"
-git-tree-sha1 = "098a88e483f2841327833098e3cb7c43e783c802"
+git-tree-sha1 = "1a48a531dd3a8a2720d06d44f1cd75c7e2621ac5"
 os = "windows"
 
     [[NodeJS_20.download]]
-    sha256 = "d2743d77eb3ca42d29b50b2842942f72ea3a7b040bf0a51dd802d2a4f769e182"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.i686-w64-mingw32.tar.gz"
+    sha256 = "310e9c6e8d96d2cb5d84b1729ebb2d42cac6df852a4a7985852564521bddc438"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.i686-w64-mingw32.tar.gz"
 [[NodeJS_20]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc41a0b4d8c390d9791abc86dd245e68316ecf20"
+git-tree-sha1 = "f2f964312de30a45bc076616f457a97e7b88cf84"
 libc = "glibc"
 os = "linux"
 
     [[NodeJS_20.download]]
-    sha256 = "15ba80c06ca2596c1550d825d25d5f5b28cdaffbd7e72466b0c634be785e46ff"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "ec7dfaabd847d517fc993cea3830f4b91cfb85cb5ee3c313f3040b5e627e3e93"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[NodeJS_20]]
 arch = "x86_64"
-git-tree-sha1 = "1a30ab236ed5ea3b803aec33aee5a36ca58ec57b"
+git-tree-sha1 = "7cb314205de4825730e5c6c3e356bf5d298dcb77"
 os = "macos"
 
     [[NodeJS_20.download]]
-    sha256 = "6f6884c4a9f5aafaf83e47f3346cb10700c627ccce93f4e1a0a370277eee7b35"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "07ecc3ba53c76cb18644d06976d339bd1ce54e383f6ce89db9b3b67e681d2394"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.x86_64-apple-darwin.tar.gz"
 [[NodeJS_20]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f66014744496ef887b3e70e4fa3ff1fd116ce629"
+git-tree-sha1 = "86336b0ee0dfedf3d771b32af4db6325d14c1e6d"
 libc = "glibc"
 os = "linux"
 
     [[NodeJS_20.download]]
-    sha256 = "16a9f5fc218af1e55504080d765d44589a86a77858a604d99a233d65daa0ee6c"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a122a77992bd2775bc9094389516e12b4ab26e9411aae57f3323e808f783e259"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[NodeJS_20]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f66014744496ef887b3e70e4fa3ff1fd116ce629"
+git-tree-sha1 = "86336b0ee0dfedf3d771b32af4db6325d14c1e6d"
 libc = "musl"
 os = "linux"
 
     [[NodeJS_20.download]]
-    sha256 = "16a9f5fc218af1e55504080d765d44589a86a77858a604d99a233d65daa0ee6c"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a122a77992bd2775bc9094389516e12b4ab26e9411aae57f3323e808f783e259"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.x86_64-linux-musl-cxx11.tar.gz"
 [[NodeJS_20]]
 arch = "x86_64"
-git-tree-sha1 = "49744c673aa1fe631b0ff3844930095ee8c615a9"
+git-tree-sha1 = "e0f2606e735e0e006f7c94fbc32e5c199387f894"
 os = "windows"
 
     [[NodeJS_20.download]]
-    sha256 = "b235fa2407d033e570e4b5faf269225947b0c4a0ea2e73f8ede0077c8b66b081"
-    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.11.1+0/NodeJS_20.v20.11.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "83630632037bf4dad4eca37ba53459945da00fc7cc64d4c57f5d562f727444ab"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_20_jll.jl/releases/download/NodeJS_20-v20.12.2+0/NodeJS_20.v20.12.2.x86_64-w64-mingw32.tar.gz"
